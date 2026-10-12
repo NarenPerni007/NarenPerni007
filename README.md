@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a DevOps engineer with around 6 years of experience building and running cloud infrastructure and delivery pipelines. I work across AWS and Azure with Terraform, Kubernetes, and CI/CD tooling — from provisioning platforms to shipping reliable releases.
+I'm a DevOps engineer with around 6 years of experience building and running cloud infrastructure and delivery pipelines. I work across AWS and Azure with Terraform, Kubernetes, and CI/CD tooling from provisioning platforms to shipping reliable releases.
 
 Currently a DevOps Engineer at **Walgreens**; previously a Cloud Operations Engineer (contractor) at **Railinc**. I hold the CKA and Microsoft Certified: DevOps Engineer Expert certifications.
 
@@ -50,4 +50,3 @@ More: [cicd-pipeline-templates](https://github.com/NarenPerni007/cicd-pipeline-t
 - Email: [narendranadhp20@gmail.com](mailto:narendranadhp20@gmail.com)
 - LinkedIn: [linkedin.com/in/narendranadh-perni-2994b8294](https://www.linkedin.com/in/narendranadh-perni-2994b8294)
 
-Open to full-time DevOps / SRE / Platform / Cloud Engineering roles — remote preferred.
