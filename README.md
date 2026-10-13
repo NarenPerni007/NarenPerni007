@@ -6,7 +6,7 @@
 
 I'm a DevOps engineer with around 6 years of experience building and running cloud infrastructure and delivery pipelines. I work across AWS and Azure with Terraform, Kubernetes, and CI/CD tooling from provisioning platforms to shipping reliable releases.
 
-Currently a DevOps Engineer at **Walgreens**; previously a Cloud Operations Engineer (contractor) at **Railinc**. I hold the CKA and Microsoft Certified: DevOps Engineer Expert certifications.
+Currently a DevOps Engineer at **Walgreens**; previously a Cloud Operations Engineer (contractor) at **Railinc**. I hold the CKA, Microsoft Certified: DevOps Engineer Expert, Microsoft Certified: Azure Administrator Associate, and AZ-400 certifications.
 
 ## 🛠️ Tech stack
 
@@ -26,17 +26,19 @@ Currently a DevOps Engineer at **Walgreens**; previously a Cloud Operations Engi
 
 ## 📜 Certifications
 
-- **Certified Kubernetes Administrator (CKA)** — Cloud Native Computing Foundation
-- **Microsoft Certified: DevOps Engineer Expert** — Microsoft
+- **Certified Kubernetes Administrator (CKA)** - Cloud Native Computing Foundation
+- **Microsoft Certified: DevOps Engineer Expert** - Microsoft
+- **Microsoft Certified: Azure Administrator Associate** - Microsoft
+- **AZ-400: Designing and Implementing Microsoft DevOps Solutions** - Microsoft
 
 ## 📌 Pinned work
 
-- [terraform-aws-eks](https://github.com/NarenPerni007/terraform-aws-eks) — Terraform for AWS VPC + EKS: managed node groups, private nodes, per-AZ NAT.
-- [terraform-azure-aks](https://github.com/NarenPerni007/terraform-azure-aks) — Terraform for Azure AKS from scratch: VNet, autoscaling node pools, managed identity, workload identity.
-- [azure-devops-pipeline-templates](https://github.com/NarenPerni007/azure-devops-pipeline-templates) — Azure DevOps pipelines: build, scan, push to ACR, Helm deploy to AKS, Dynatrace events.
-- [ansible-playbooks](https://github.com/NarenPerni007/ansible-playbooks) — Server setup and hardening roles I reuse: common, sshd/sysctl hardening, Docker, nginx.
-- [python-cloud-automation](https://github.com/NarenPerni007/python-cloud-automation) — boto3 scripts for AWS hygiene: EC2 scheduler, snapshot cleanup, S3 inventory reports.
-- [webapp-helm-chart](https://github.com/NarenPerni007/webapp-helm-chart) — Hardened Helm chart: HPA, PDB, probes, ingress TLS, non-root containers.
+- [terraform-aws-eks](https://github.com/NarenPerni007/terraform-aws-eks) - Terraform for AWS VPC + EKS: managed node groups, private nodes, per-AZ NAT.
+- [terraform-azure-aks](https://github.com/NarenPerni007/terraform-azure-aks) - Terraform for Azure AKS from scratch: VNet, autoscaling node pools, managed identity, workload identity.
+- [azure-devops-pipeline-templates](https://github.com/NarenPerni007/azure-devops-pipeline-templates) - Azure DevOps pipelines: build, scan, push to ACR, Helm deploy to AKS, Dynatrace events.
+- [ansible-playbooks](https://github.com/NarenPerni007/ansible-playbooks) - Server setup and hardening roles I reuse: common, sshd/sysctl hardening, Docker, nginx.
+- [python-cloud-automation](https://github.com/NarenPerni007/python-cloud-automation) - boto3 scripts for AWS hygiene: EC2 scheduler, snapshot cleanup, S3 inventory reports.
+- [webapp-helm-chart](https://github.com/NarenPerni007/webapp-helm-chart) - Hardened Helm chart: HPA, PDB, probes, ingress TLS, non-root containers.
 
 More: [cicd-pipeline-templates](https://github.com/NarenPerni007/cicd-pipeline-templates) · [linux-admin-toolkit](https://github.com/NarenPerni007/linux-admin-toolkit) · [monitoring-dashboards](https://github.com/NarenPerni007/monitoring-dashboards)
 
